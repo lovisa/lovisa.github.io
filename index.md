@@ -4,7 +4,7 @@
 
 ### STI
 
-[Deluxe Parkering](lovisa-deluxe-parkering/index.html)
+[Deluxe Parkering](/lovisa-deluxe-parkering/index.html)
 
 ---
 
