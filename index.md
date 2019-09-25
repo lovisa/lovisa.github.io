@@ -14,4 +14,4 @@
 
 
 ---
-<p style="font-size:11px">Lovisa &copy 2019</p>
+<p style="font-size:11px">Lovisa © 2019</p>
