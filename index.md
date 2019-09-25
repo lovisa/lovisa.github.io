@@ -4,7 +4,7 @@
 
 ### STI
 
-[Deluxe Parkering](https://lovisa.github.io/Lovisa-Deluxe-Parkering/)
+[Deluxe Parkering](/Lovisa-Deluxe-Parkering)
 
 ---
 
