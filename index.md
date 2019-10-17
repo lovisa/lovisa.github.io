@@ -5,8 +5,7 @@
 ### STI
 
 [Deluxe Parkering](/Deluxe-Parkering)<br>
-<a href="/Ljuva-Livet">Download "Ljuva Livet"</a><br>
-[Luva Livet](/Ljuva-Livet)
+<a href="https://github.com/lovisa/Ljuva-Livet">Ljuva Livet</a><br>
 
 ---
 
