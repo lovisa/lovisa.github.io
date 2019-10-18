@@ -7,6 +7,7 @@
 [Deluxe Parkering](/Deluxe-Parkering)<br>
 <a href="https://github.com/lovisa/Ljuva-Livet">Ljuva Livet</a><br>
 <a href="https://github.com/lovisa/fLux">fLux</a><br>
+<a href="https://github.com/lovisa/Tidsreg">Tidsreg</a><br>
 
 ---
 
