@@ -8,7 +8,7 @@
 <a href="https://github.com/lovisa/Ljuva-Livet">Ljuva Livet</a><br>
 <a href="https://github.com/lovisa/fLux">fLux</a><br>
 <a href="https://github.com/lovisa/Tidsreg">Tidsreg</a><br>
-<a href="https://github.com/lovisa/Weather-ToDo">Weather&ToDo</a><br>
+<a href="https://github.com/lovisa/Weather-ToDo">Weather & ToDo</a><br>
 
 ---
 
